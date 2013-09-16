@@ -1,0 +1,1 @@
+Git branching is somewhat simpler, but has contextual issues.
