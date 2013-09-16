@@ -1,1 +1,3 @@
 Git branching is somewhat simpler, but has contextual issues.
+
+Remembering to use checkout moving between branches is difficult.
