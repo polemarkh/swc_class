@@ -2,4 +2,6 @@ Git branching is somewhat simpler, but has contextual issues.
 
 Text issues.
 
-Remembering to use checkout moving between branches is difficult.
+Remembering to use checkout moving between branches can be easier.
+
+Forking is reasonably conceptually simple.
